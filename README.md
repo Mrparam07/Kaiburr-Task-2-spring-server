@@ -51,11 +51,11 @@ A SwaggerUI is generated automatically at `http://127.0.0.1:8080/servers/` which
 
 ![deleteServer](https://github.com/Mrparam07/Kaiburr-Assignment/blob/main/Task-2/Screenshots/SwaggerUIDeleteServerTask2.png)
 
-# Swagger generated server
+### Swagger generated server
 
 Spring Boot Server 
 
 ### Overview
 This server is generated using swagger-codegen and the OpenAPI-Spec. It demonstrates building a Swagger-enabled server in Java using the Spring Boot framework, with springfox as the underlying library for integrating Swagger.
 
-To start the server as a simple Java application, navigate to http://localhost:8080/.
+To start the server as a simple Java application, navigate to http://localhost:8080/
